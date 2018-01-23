@@ -10,4 +10,5 @@ The following data-structure implementation have been added in the project:
 6. Binary Search Tree
 7. Graph
 8. Binary Heap - Priority Queue
+9. Tries
 
